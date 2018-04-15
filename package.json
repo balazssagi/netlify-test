@@ -1,0 +1,13 @@
+{
+  "name": "netlify-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<balazssagi@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
